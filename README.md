@@ -17,9 +17,17 @@ This repository begins with three foundational C programs perfect for anyone ste
 Each program is written to be clean and beginner-friendly, helping you build confidence as you explore C programming step-by-step. 🛠️
 
 
-## 🔧 How to Run
+## Programs
 
-Use any C compiler (like GCC) or an IDE such as VS Code with proper setup.
+1. [Hello World](hello.c) - A simple program that prints "Hello, World!" to the console.
+2. [Sum of Two Numbers](sum.c) - A program that takes two numbers as input and prints their sum.
+3. [Swap-num](swap-num.c) - A program that calculates the factorial of a given number.
+
+## 🔧 How to Run
+- Ensure you have a C compiler (e.g., GCC) installed.
+- Compile a program using: gcc program_name.c -o program_name
+- Run the program: ./program_name (on Linux/Mac) or program_name.exe (on Windows).
+
 
 ## 🎯 Objective
 
